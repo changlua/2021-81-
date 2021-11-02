@@ -12,4 +12,8 @@
 第四关：考察框架应用层面，找bug并修正，共有10个bug，springsecurity+springwebflux(websocket)。
 
 最终成绩55名
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1102/165356_e200d3b0_7837125.png "屏幕截图.png")
+
+![83行代码挑战赛](./images/1635845126146.png)  
+
+
+
