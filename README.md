@@ -13,7 +13,7 @@
 
 最终成绩55名
 
-![83行代码挑战赛](./images/1635845126146.png)  
+![83行代码挑战赛](https://pictured-bed.oss-cn-beijing.aliyuncs.com/img/2022/3/202203261034062.png)  
 
 
 
